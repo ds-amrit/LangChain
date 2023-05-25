@@ -2,4 +2,10 @@ langchain
 openai
 pandas
 numpy
-
+google-search-results
+python-magic-bin==0.4.14
+chromadb
+unstructured
+nltk
+tabulate
+tiktoken
